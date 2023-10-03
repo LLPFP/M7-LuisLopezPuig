@@ -123,38 +123,7 @@ echo "<br>";
         <?php echo nl2br($texto); ?>
     </div>
 	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	<p>Site developed by: Luis López Puig: <a href='https://github.com/LLPFP?tab=repositories'>Github</a> </p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     </body>
