@@ -120,7 +120,7 @@ echo "<br>";
     </form>
 
     <div style="color: <?php echo $color; ?>; font-family: <?php echo $fuente; ?>; font-size: <?php echo $tamano; ?>;">
-        <?php echo nl2br($texto); ?>
+        <?php echo nl2br($texto);?>
     </div>
 	
 
